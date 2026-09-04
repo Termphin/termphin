@@ -1,8 +1,8 @@
 # Termphin
 
-Termphin is an SSH client for Android. It connects your phone to your servers,
-lets you run commands, browse and edit files, and keeps sessions alive when you
-switch apps or lose signal.
+Termphin is an SSH client. It connects your device to your servers, lets you run
+commands, browse and edit files, and keeps sessions alive when you switch apps
+or lose signal.
 
 **This repository is the issue tracker.** The app's source is not here - it is
 where you report a bug, ask for a feature, or ask a question.
@@ -15,10 +15,10 @@ where you report a bug, ask for a feature, or ask a question.
 
 - A terminal that renders text interfaces correctly, including diffs, progress bars and spinners.
 - Fourteen colour schemes, light and dark, with adjustable font size, line height and padding.
-- An SFTP browser in the same tab as the shell: walk the filesystem, edit files with syntax highlighting, preview images and upload from your phone.
+- An SFTP browser in the same tab as the shell: walk the filesystem, edit files with syntax highlighting, preview images and upload from your device.
 - Port forwarding - local and remote tunnels, opened per session or saved with a profile.
 - Snippets: save commands you use often and run them with one tap on any machine.
-- An SSH key manager: generate ed25519 and RSA keys or import your own, kept encrypted on the phone behind a PIN or fingerprint.
+- An SSH key manager: generate ed25519 and RSA keys or import your own, kept encrypted on the device behind a PIN or fingerprint.
 - Jump hosts, the way OpenSSH's ProxyJump works - point a profile at another profile.
 - A draggable action dock you lay out yourself.
 
@@ -27,7 +27,7 @@ connection or a switched network, and Termphin reattaches you to the same
 session when you come back. A server reboot still ends that shell; you land in
 a fresh one in the same directory.
 
-Keys and profiles never leave the phone. The only thing Termphin sends anywhere
+Keys and profiles never leave the device. The only thing Termphin sends anywhere
 is anonymous usage analytics, and only if you say yes when asked.
 
 ## Before you open an issue

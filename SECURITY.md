@@ -7,7 +7,7 @@ is worth reporting privately rather than in an issue.
 found, how to reproduce it, and what an attacker could do with it. You will get
 an acknowledgement within a few days.
 
-Supported: the current version on Google Play. Fixes ship in a normal release.
+Supported: the current release. Fixes ship in a normal one.
 
 Please do not test against machines you do not own, and never include a real
 private key, password or host key in a report.
