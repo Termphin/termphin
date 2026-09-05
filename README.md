@@ -1,6 +1,6 @@
 [![Termphin - an SSH client whose sessions survive the dropped connection](https://termphin.dev/gh-banner.webp?v=3)](https://termphin.dev)
 
-[termphin.dev](https://termphin.dev) · [Manual](https://book.termphin.dev) · [Changelog](https://termphin.dev/changelog)
+[termphin.dev](https://termphin.dev) · [Manual](https://manual.termphin.dev) · [Changelog](https://termphin.dev/changelog)
 
 # Termphin
 
@@ -35,7 +35,7 @@ is anonymous usage analytics, and only if you say yes when asked.
 
 ## Before you open an issue
 
-- Check the [manual](https://book.termphin.dev) - it covers connections, keys, files, tunnels and the remote agent.
+- Check the [manual](https://manual.termphin.dev) - it covers connections, keys, files, tunnels and the remote agent.
 - Search the existing issues; a comment on the open one is more useful than a second report.
 - Never paste a private key, a password or a real host key. Redact hostnames and usernames if you would rather not share them - the app's **Anonymize** switch in Settings does this for screenshots.
 
