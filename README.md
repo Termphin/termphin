@@ -1,4 +1,6 @@
-[![Termphin - an SSH client whose sessions survive the dropped connection](https://termphin.dev/gh-banner.webp)](https://termphin.dev)
+[![Termphin - an SSH client whose sessions survive the dropped connection](https://termphin.dev/gh-banner.webp?v=3)](https://termphin.dev)
+
+[termphin.dev](https://termphin.dev) · [Manual](https://book.termphin.dev) · [Changelog](https://termphin.dev/changelog)
 
 # Termphin
 
@@ -11,7 +13,6 @@ where you report a bug, ask for a feature, or ask a question.
 
 - [Report a bug](../../issues/new?template=bug_report.yml)
 - [Suggest an idea](../../issues/new?template=idea.yml)
-- [Manual](https://book.termphin.dev) · [Website](https://termphin.dev) · [Changelog](https://termphin.dev/changelog)
 
 ## What it does
 
