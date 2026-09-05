@@ -1,3 +1,5 @@
+[![Termphin - an SSH client whose sessions survive the dropped connection](https://termphin.dev/gh-banner.webp)](https://termphin.dev)
+
 # Termphin
 
 Termphin is an SSH client. It connects your device to your servers, lets you run
