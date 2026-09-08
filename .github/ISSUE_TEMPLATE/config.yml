@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Manual
-    url: https://book.termphin.dev
+    url: https://manual.termphin.dev
     about: How connections, keys, files, tunnels and the remote agent work.
   - name: Security vulnerability
     url: https://github.com/Termphin/termphin/blob/main/SECURITY.md
